@@ -53,6 +53,7 @@
 			<artifactId>lombok</artifactId>
 		</dependency>
 		<dependency>
+<<<<<<< HEAD
 			<groupId>org.webjars</groupId>
 			<artifactId>bootstrap</artifactId>
 			<version>4.3.1</version>
@@ -63,6 +64,8 @@
 			<version>3.4.1</version>
 		</dependency>
 		<dependency>
+=======
+>>>>>>> fb287ae... Revert "refactored project for project lombok."
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
